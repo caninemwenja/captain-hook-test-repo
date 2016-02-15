@@ -7,3 +7,4 @@ v0.0.2
 
 - testing commit
 - test push event
+- test signature match
